@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com suporte
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
 ##
 <div align="center">
   <a href="https://github.com/bieloliveira8">
